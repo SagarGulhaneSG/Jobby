@@ -1,0 +1,52 @@
+.job-cont{
+    padding: 20px;
+    
+    border-radius: 15px;
+    background-color: rgb(34, 32, 32);
+    margin-bottom: 20px;
+    list-style: none;
+    color: white;
+}
+.web-logo{
+    width: 90px;
+    margin-right: 10px;
+    
+}
+.top{
+    display: flex;
+    align-items: center;
+   
+}
+.star{
+    margin-right: 5px;
+    color: yellow;
+}
+.middle{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid grey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.icon-text{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.icon{
+    margin-right: 5px;
+    font-size: 20px;
+}
+.icon-text-cont{
+    display: flex;
+    align-items: center;
+}
+.description{
+    font-size: 20px;
+}
+.full-cont{
+    text-decoration: none;
+}
+.descrip{
+    background-color: rgb(34, 32, 32);
+}

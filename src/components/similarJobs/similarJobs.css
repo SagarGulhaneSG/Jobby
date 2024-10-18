@@ -1,0 +1,35 @@
+.card{
+    
+    width: 20vw;
+    height: 20vh;
+    display: flex;
+    padding: 20px;
+   
+    
+}
+.card h4{
+    color: white;
+}
+
+
+
+.card-cont{
+    display: flex;
+    margin-bottom: 10px;
+    
+
+}
+.card-cont img{
+    width: 70px;
+    margin-right: 10px;
+}
+.loc-emp span{
+    margin-right: 20px;
+}
+
+.icon{
+    margin-right: 5px;
+}
+.star{
+    margin-right: 5px;
+}
